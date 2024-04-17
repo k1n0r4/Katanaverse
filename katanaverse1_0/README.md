@@ -6,7 +6,7 @@ Yes, that should work.
 
 ### Flag
 
-Org Flag: bi0sctf{q_cmptng-is_fun}
+Org Flag: bi0sctf{q_cmptng-is_fun} <br>
 Base64 Flag: bi0sCTF{cV9jbXB0bmctaXNfZnVu}
 
 **Author**
