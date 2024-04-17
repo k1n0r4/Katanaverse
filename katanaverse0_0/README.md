@@ -10,10 +10,10 @@ To crack the vault, think weird. Twist logic, mess with time – you got it. The
 
 ### Flag
 
-Org Flag: bi0sCTF{QuBitJugglr}
+Org Flag: bi0sCTF{QuBitJugglr} <br>
 Base64 Flag: bi0sCTF{UXVCaXRKdWdnbHI=}
 
-**Author**
+**Author** <br>
 Sejal Koshta: k1n0r4 | [k1n0r4](https://twitter.com/k1n0r4) 
 
 <hr>
