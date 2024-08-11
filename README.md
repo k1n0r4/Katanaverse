@@ -30,6 +30,6 @@ As previously outlined, the implementation of Katanaverse is divided into two bi
 
 For a comprehensive understanding of the Katanaverse implementation, including detailed insights into the development process, algorithmic choices, and technical intricacies, please refer to my blog. In the blog post, I provide a step-by-step walkthrough of building the binaries, elucidating the rationale behind each decision and the challenges encountered along the way.
 
-To access the blog, please follow this link: [Blog Post - Exploring Katanaverse Implementation](https://k1n0r4.github.io/post/katanaverse/).
+To access the blog, please follow this link: [Blog Post - Exploring Katanaverse Implementation](https://k1n0r4.github.io/2024/02/02/Exploring-Katanaverse-Implementation/).
 
 Feel free to hit me up in case any doubts or queries!
